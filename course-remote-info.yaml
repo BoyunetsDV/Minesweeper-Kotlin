@@ -6,10 +6,10 @@ hyperskill_project:
 stages:
 - id: 46
   step: 7686
-  is_completed: false
+  is_completed: true
 - id: 47
   step: 7687
-  is_completed: false
+  is_completed: true
 - id: 48
   step: 7688
   is_completed: false
@@ -49,6 +49,8 @@ topics:
     theory_id: 4445
   - title: Type conversion
     theory_id: 4672
+  - title: Reading data with a readLine
+    theory_id: 11224
   - title: Type inference
     theory_id: 9506
   - title: Integers in action
@@ -89,10 +91,14 @@ topics:
   2:
   - title: Introduction to OOP
     theory_id: 3614
+  - title: Objects
+    theory_id: 11233
   - title: Declaring functions
     theory_id: 4580
-  - title: Objects
-    theory_id: 6773
+  - title: Default arguments
+    theory_id: 4637
+  - title: Named arguments
+    theory_id: 4640
   - title: String templates
     theory_id: 4547
   - title: Declaring classes
