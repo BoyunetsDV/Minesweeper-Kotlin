@@ -13,18 +13,25 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
             <option value="$PROJECT_DIR$/Problems/Area printer" />
             <option value="$PROJECT_DIR$/Problems/Bank account" />
             <option value="$PROJECT_DIR$/Problems/Calculate volume" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
             <option value="$PROJECT_DIR$/Problems/Car price" />
             <option value="$PROJECT_DIR$/Problems/Car speed" />
+            <option value="$PROJECT_DIR$/Problems/City population" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Composition" />
             <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
             <option value="$PROJECT_DIR$/Problems/Constructor property" />
+            <option value="$PROJECT_DIR$/Problems/Delegation" />
             <option value="$PROJECT_DIR$/Problems/Deposit" />
+            <option value="$PROJECT_DIR$/Problems/Fridge" />
             <option value="$PROJECT_DIR$/Problems/Gratuity" />
             <option value="$PROJECT_DIR$/Problems/Greeting" />
+            <option value="$PROJECT_DIR$/Problems/Last digit" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Problems/Perimeter" />
             <option value="$PROJECT_DIR$/Problems/Pets" />
             <option value="$PROJECT_DIR$/Problems/Point2D" />
@@ -36,6 +43,8 @@
             <option value="$PROJECT_DIR$/Problems/Rickrolling" />
             <option value="$PROJECT_DIR$/Problems/Summation" />
             <option value="$PROJECT_DIR$/Problems/URL" />
+            <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Problems/Weather comparison" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

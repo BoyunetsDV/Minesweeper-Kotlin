@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    class Application(val name: String) {
+
+        // write the run method here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6370
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6370">JetBrains
+    Academy</a></html>
+  time: Tue, 27 Oct 2020 18:06:40 UTC
+record: -1
