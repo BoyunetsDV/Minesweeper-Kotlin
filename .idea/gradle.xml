@@ -26,16 +26,19 @@
             <option value="$PROJECT_DIR$/Problems/Car speed" />
             <option value="$PROJECT_DIR$/Problems/Cell" />
             <option value="$PROJECT_DIR$/Problems/City population" />
+            <option value="$PROJECT_DIR$/Problems/Combinination" />
             <option value="$PROJECT_DIR$/Problems/Companion" />
             <option value="$PROJECT_DIR$/Problems/Complex numbers" />
             <option value="$PROJECT_DIR$/Problems/Composition" />
             <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
             <option value="$PROJECT_DIR$/Problems/Constructor property" />
+            <option value="$PROJECT_DIR$/Problems/Conversion" />
             <option value="$PROJECT_DIR$/Problems/Currencies" />
             <option value="$PROJECT_DIR$/Problems/Currency comparision" />
             <option value="$PROJECT_DIR$/Problems/Danger level" />
             <option value="$PROJECT_DIR$/Problems/Delegation" />
             <option value="$PROJECT_DIR$/Problems/Deposit" />
+            <option value="$PROJECT_DIR$/Problems/Element problem" />
             <option value="$PROJECT_DIR$/Problems/Fabric manufacture" />
             <option value="$PROJECT_DIR$/Problems/Fix an error" />
             <option value="$PROJECT_DIR$/Problems/Fix me" />
@@ -57,6 +60,7 @@
             <option value="$PROJECT_DIR$/Problems/Reddit" />
             <option value="$PROJECT_DIR$/Problems/Reversed output" />
             <option value="$PROJECT_DIR$/Problems/Rickrolling" />
+            <option value="$PROJECT_DIR$/Problems/Subtractination" />
             <option value="$PROJECT_DIR$/Problems/Summation" />
             <option value="$PROJECT_DIR$/Problems/The rainbow order" />
             <option value="$PROJECT_DIR$/Problems/URL" />

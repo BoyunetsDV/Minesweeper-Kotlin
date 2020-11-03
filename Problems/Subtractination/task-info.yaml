@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(numbers1: Set<Int>, numbers2: Set<Int>): Int {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11296#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11296#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 03 Nov 2020 17:07:21 UTC
+record: -1
